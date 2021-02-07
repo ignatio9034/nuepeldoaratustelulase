@@ -1,0 +1,4 @@
+baseURL = "https://clarinetmusicbuzz5.vercel.app"
+languageCode = "en-us"
+title = "Clarinet Sheet Music With Letter"
+theme = "hugo-theme-minos"
